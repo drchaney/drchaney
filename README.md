@@ -1,5 +1,5 @@
 # 👋 Hi, I’m David!
-### 💞️ I'm the, "How can I help" guy?
+### 💞️ I'm the, "How can I help?" guy
 ## 📫 I'm at [🎯 LinkedIn](https://linkedin.com/in/drchaney/)
 -David
 
