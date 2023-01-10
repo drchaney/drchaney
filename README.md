@@ -1,5 +1,5 @@
 # 👋 Hi, I’m David!
-### 💞️ I could stick around
+### I could stick around
 ## 📫 I'm at [🎯 LinkedIn](https://linkedin.com/in/drchaney/)
 -David
 ✨✨✨
