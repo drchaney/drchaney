@@ -2,7 +2,7 @@
 
 ## 📫 I'm at [🎯 LinkedIn](https://linkedin.com/in/drchaney/)
 
-- [ ] Currently working on: Amping up this readme. :D
+- [ ] Currently working on: Amping up this readme.
 
 -David
 ✨✨✨
