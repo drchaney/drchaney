@@ -2,7 +2,11 @@
 
 ## 📫 I'm at [🎯 LinkedIn](https://linkedin.com/in/drchaney/)
 
-- [ ] Currently working on: Amping up this readme.
+- [ ] Looking for employment!  Full Stack, frontend develop, backend engineer.  PostgreSQL, Express, React, Node.
+- [x] Positive energy
+- [x] Awesome skills
+- [x] Great attitude
+- [x] Amazing communication
 
 
 
