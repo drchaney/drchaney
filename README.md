@@ -1,6 +1,6 @@
 # 👋 Hi, I’m David!
 
-## 📫 I'm at [🎯 LinkedIn](https://linkedin.com/in/drchaney/)
+## 📫 I'm at [LinkedIn](https://linkedin.com/in/drchaney/)
 
 - [ ] Looking for employment!  Full Stack, frontend developer, backend engineer.  PostgreSQL, Express, React, Node.
 - [x] Positive energy
