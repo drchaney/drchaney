@@ -25,6 +25,6 @@
 - [x] Start a new career as a software developer💼🏢
 - [ ] Find employment in new career field🖥️
 - [ ] Finish building my fence🔨
-- [ ] Replace the AA batteries in my AI Chat bot 🤖
+- [ ] Determine if this page was generated solely by AI 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
