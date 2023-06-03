@@ -25,6 +25,6 @@
 - [x] Start a new career as a software developer💼🏢
 - [ ] Find employment in new career field🖥️
 - [ ] Finish building my fence🔨
-- [ ] Invent the most nutritious food to give an AI 🤖
+- [ ] Teach AI gastronomics 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
