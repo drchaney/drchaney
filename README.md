@@ -25,6 +25,6 @@
 - [x] Start a new career as a software developer💼🏢
 - [ ] Find employment in new career field🖥️
 - [ ] Finish building my fence🔨
-- [ ] Teach AI gastronomics 🤖
+- [ ] Teach AI to smell flowers 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
