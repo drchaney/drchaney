@@ -25,6 +25,6 @@
 - [x] Start a new career as a software developer💼🏢
 - [ ] Find employment in new career field🖥️
 - [ ] Finish building my fence🔨
-- [ ] Ask ChatGPT how to make a time machine from a stainless steel car from the 80s 🤖
+- [ ] Teach ChatGPT how to make a time machine from a stainless steel car from the 80s 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
