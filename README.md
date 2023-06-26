@@ -25,6 +25,6 @@
 - [x] Start a new career as a software developer💼🏢
 - [ ] Find employment in new career field🖥️
 - [ ] Finish building my fence🔨
-- [ ] Teach ChatGPT how to taste victory 🤖
+- [ ] Teach ChatGPT how to make a perfect smore 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
