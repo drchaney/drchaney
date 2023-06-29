@@ -22,9 +22,6 @@
 ## Goals
 - [x] Have a successful career leading people and projects🎉✨
 - [x] Travel the world🌍✈️
-- [x] Start a new career as a software developer💼🏢
-- [ ] Find employment in new career field🖥️
-- [ ] Finish building my fence🔨
-- [ ] Teach ChatGPT how to make a perfect smore 🤖
+- [ ] Teach AI to make pancakes 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
