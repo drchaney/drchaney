@@ -22,6 +22,6 @@
 ## Goals
 - [x] Have a successful career leading people and projects🎉✨
 - [x] Travel the world🌍✈️
-- [ ] Teach AI to make magic beans. 🤖
+- [ ] Update AI whitelist. 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
