@@ -25,3 +25,4 @@
 - [ ] ~~Update AI whitelist.~~ They're ignoring the whitelist. 🤖
 
 ![David](https://raw.githubusercontent.com/drchaney/drchaney/main/david.png "David Chaney")
+<hr/>
